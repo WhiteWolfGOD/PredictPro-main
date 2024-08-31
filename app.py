@@ -19,7 +19,7 @@ from sklearn.metrics import r2_score, mean_absolute_error
 
 st.title('Stock Price Predictions')
 st.sidebar.info('Welcome to the Stock Price Prediction App. Choose your options below')
-st.sidebar.info("Created and designed by [Atharva Sankhe]")
+st.sidebar.info("Created and designed by [Arya Durne]")
 
 def main():
     option = st.sidebar.selectbox('Make a choice', ['Visualize','Recent Data', 'Predict'])
