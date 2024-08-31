@@ -2,7 +2,7 @@
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
 
-Created and designed by [Atharva Sankhe](https://github.com/simpostor).
+Created and designed by [Arya Durne]
 
 
 ## Description
